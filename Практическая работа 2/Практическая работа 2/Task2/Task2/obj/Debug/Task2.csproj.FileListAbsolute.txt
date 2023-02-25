@@ -1,0 +1,106 @@
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Task2_MarkupCompile.cache
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Task2_MarkupCompile.lref
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Task2.g.resources
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Task2.Properties.Resources.resources
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Task2.pdb
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task1Page.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task1Page.baml
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Pages\MainPage.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Pages\MainPage.baml
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task2Page.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task2Page.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\MainWindow.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\MainPage.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task1Page.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task2Page.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task3Page.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\App.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Task2_MarkupCompile.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Task2_MarkupCompile.lref
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Task2.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\MainWindow.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\MainPage.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task1Page.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task2Page.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task3Page.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Task2.g.resources
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Task2.Properties.Resources.resources
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task4Page.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task4Page.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task5Page.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task6Page.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task5Page.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task6Page.baml
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task3Page.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task4Page.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task5Page.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task6Page.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task7Page.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task3Page.baml
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task4Page.baml
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task5Page.baml
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task6Page.baml
+C:\Users\user\Desktop\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task7Page.baml
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\MainPage.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task10Page.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task11Page.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task12Page.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task1Page.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task2Page.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task3Page.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task4Page.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task5Page.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task6Page.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task7Page.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task8Page.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task9Page.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Tasl13Page.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Task2_MarkupCompile.cache
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Task2_MarkupCompile.lref
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Task2.pdb
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\MainPage.baml
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task1Page.baml
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task2Page.baml
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task3Page.baml
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task4Page.baml
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task5Page.baml
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task6Page.baml
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task7Page.baml
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task10Page.baml
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task11Page.baml
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task12Page.baml
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task8Page.baml
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Task9Page.baml
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Pages\Tasl13Page.baml
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Task2.g.resources
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Task2.Properties.Resources.resources
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Практическая работа 2\Практическая работа 2\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache

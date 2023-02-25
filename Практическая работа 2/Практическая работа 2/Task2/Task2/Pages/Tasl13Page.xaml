@@ -1,0 +1,27 @@
+﻿<Page x:Class="Task2.Pages.Tasl13Page"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Task2.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Tasl13Page">
+
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="11*"/>
+            <RowDefinition Height="378*"/>
+            <RowDefinition Height="61*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="Answer" Content="Ответ" HorizontalAlignment="Center" Width="756" FontSize="16" Grid.Row="2" Margin="0,8,0,22" Click="Button_Click"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Center" Width="756" Grid.Row="1" Margin="0,8,0,8"/>
+        <Label Content="Разметка" HorizontalAlignment="Left" Height="41" Margin="10,10,0,0" VerticalAlignment="Top" Width="108"/>
+        <TextBox x:Name="Textbox_nm" HorizontalAlignment="Left" Height="41" Margin="123,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="127" Text="4*3"/>
+        <Label Content="Занятые клетки" HorizontalAlignment="Left" Height="41" Margin="78,65,0,0" VerticalAlignment="Top" Width="108" Grid.Row="1"/>
+        <TextBox x:Name="Textbox_polki" HorizontalAlignment="Left" Height="114" Margin="33,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="226" Text="110000111000" Grid.Row="1"/>
+        <Label x:Name="Label_end" Content="" HorizontalAlignment="Left" Height="218" Margin="307,65,0,0" VerticalAlignment="Top" Width="436" Grid.Row="1"/>
+        <Button x:Name="BackBt" Content="Назад" HorizontalAlignment="Left" Margin="33,20,0,0" Grid.Row="1" VerticalAlignment="Top" Width="73" Click="BackBt_Click_1"/>
+
+    </Grid>
+</Page>
